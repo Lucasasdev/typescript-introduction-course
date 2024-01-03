@@ -1,12 +1,11 @@
 # Introduction TypeScript Course
 
+## Technologies
 ![Static Badge](https://img.shields.io/badge/typescript-blue)
-
 ![Static Badge](https://img.shields.io/badge/javascript-yellow)
 
 ## The target with that project is:
-
-Understand what's the Typescript and how to buid an project using it and how to apply it in projects.
+Understand what is Typescript and how to buid and apply it on projects.
 
 ## Understood concepts:
 
